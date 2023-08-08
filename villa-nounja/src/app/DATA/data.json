@@ -1,0 +1,27 @@
+[
+    {
+      "images": ["/images/bedroom1.jpeg", "/images/bedroom1.jpeg", "/images/bedroom1.jpeg", "/images/bedroom1.jpeg"],
+      "name": "Modern Loft",
+      "bedrooms": 2,
+      "climate": true,
+      "wifi": true,
+      "description": "Stylish and spacious loft in the heart of the city"
+    },
+    {
+      "images": ["/images/bedroom2.jpeg", "/images/garden.jpeg", "/images/salon.jpeg", "/images/showr.jpeg"],
+      "name": "Cozy Cottage",
+      "bedrooms": 1,
+      "climate": false,
+      "wifi": true,
+      "description": "Charming and quaint cottage in a quiet neighborhood"
+    },
+    {
+      "images": ["/images/bedroom1.jpeg", "/images/bedroom1.jpeg", "/images/bedroom1.jpeg", "/images/bedroom1.jpeg"],
+      "name": "Luxury Villa",
+      "bedrooms": 4,
+      "climate": true,
+      "wifi": true,
+      "description": "Elegant and luxurious villa with breathtaking views"
+    }
+  ]
+  
